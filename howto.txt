@@ -1,0 +1,12 @@
+After creating repository on github.com:
+
+In local directory:
+  git init
+  git add <filename>  [or git add -A]
+  git commit -m "<comment>"
+  git remote add origin https://github.com/bradplaster08/githubTest.git
+  git push -u origin master
+
+Pulling:
+  git clone [initializes directory; first time]
+  git pull [thereafter]
